@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.18362 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.26.28801/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ wersja kompilatora optymalizującego 19.26.28806 dla x64
+Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.26.28806.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/CLion_projects/myGame1/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.26.28801/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ wersja kompilatora optymalizującego 19.26.28806 dla x64
+Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.26.28806.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/CLion_projects/myGame1/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/CLion_projects/myGame1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_d2a4d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\nmake.exe" -f CMakeFiles\cmTC_d2a4d.dir\build.make /nologo -L                  CMakeFiles\cmTC_d2a4d.dir\build
+Building C object CMakeFiles/cmTC_d2a4d.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx64\x64\cl.exe @C:\Users\Mateusz\AppData\Local\Temp\nm2C72.tmp
+testCCompiler.c
+Linking C executable cmTC_d2a4d.exe
+	"D:\CLion\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d2a4d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_d2a4d.dir\objects1.rsp @C:\Users\Mateusz\AppData\Local\Temp\nm2E38.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/CLion_projects/myGame1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a962e\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\nmake.exe" -f CMakeFiles\cmTC_a962e.dir\build.make /nologo -L                  CMakeFiles\cmTC_a962e.dir\build
+Building C object CMakeFiles/cmTC_a962e.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx64\x64\cl.exe @C:\Users\Mateusz\AppData\Local\Temp\nm34A0.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_a962e.exe
+	"D:\CLion\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a962e.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_a962e.dir\objects1.rsp @C:\Users\Mateusz\AppData\Local\Temp\nm3647.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/CLion_projects/myGame1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_30833\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\nmake.exe" -f CMakeFiles\cmTC_30833.dir\build.make /nologo -L                  CMakeFiles\cmTC_30833.dir\build
+Building CXX object CMakeFiles/cmTC_30833.dir/testCXXCompiler.cxx.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx64\x64\cl.exe @C:\Users\Mateusz\AppData\Local\Temp\nm3C60.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_30833.exe
+	"D:\CLion\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_30833.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_30833.dir\objects1.rsp @C:\Users\Mateusz\AppData\Local\Temp\nm3E26.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/CLion_projects/myGame1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_23f7c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\nmake.exe" -f CMakeFiles\cmTC_23f7c.dir\build.make /nologo -L                  CMakeFiles\cmTC_23f7c.dir\build
+Building CXX object CMakeFiles/cmTC_23f7c.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx64\x64\cl.exe @C:\Users\Mateusz\AppData\Local\Temp\nm449D.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_23f7c.exe
+	"D:\CLion\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_23f7c.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_23f7c.dir\objects1.rsp @C:\Users\Mateusz\AppData\Local\Temp\nm4654.tmp
+
+
+
